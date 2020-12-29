@@ -50,6 +50,7 @@ public class Main {
                 playerLetter="o";
                 computerLetter="s";
             }
+            //System.out.println();
 
 
             if (startPerson == 0) {
